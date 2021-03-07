@@ -35,4 +35,4 @@ The firmware uses a self developed stepper library. It uses the SAMD21 timer per
 __Do not use this firmware! It is heavly beeing worked on. It will destroy your hardware!__
 
 ## Control Software
-
+No control software yet. But it is planned to use node-red in combination with MQTT messages.
